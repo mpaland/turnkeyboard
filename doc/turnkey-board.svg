@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st15">
+	<v:documentProperties v:langID="1033" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#cdcdcd;fill-opacity:0.5;stroke:#cdcdcd;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stroke-width:0.25}
+		.st3 {fill:url(#grad30-6);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st4 {fill:#000000;font-family:Calibri;font-size:1.99999em}
+		.st5 {fill:url(#grad30-13);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st6 {fill:#000000;font-family:Calibri;font-size:1.16666em}
+		.st7 {fill:url(#grad30-20);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st8 {fill:url(#grad30-27);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st9 {fill:url(#grad30-34);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st10 {fill:url(#grad30-41);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st11 {fill:url(#grad30-48);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st12 {fill:url(#grad30-55);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st13 {fill:url(#grad30-76);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st14 {fill:#000000;font-family:Calibri;font-size:1.00001em}
+		.st15 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad30-6" v:fillPattern="30" v:foreground="#ff7b7b" v:background="#ff9999" x1="0" y1="1" x2="0" y2="0">
+			<stop offset="0" style="stop-color:#ff7b7b;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#ff9999;stop-opacity:1"/>
+		</linearGradient>
+		<linearGradient id="grad30-13" v:fillPattern="30" v:foreground="#85ca39" v:background="#92d050" x1="0" y1="1" x2="0" y2="0">
+			<stop offset="0" style="stop-color:#85ca39;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#92d050;stop-opacity:1"/>
+		</linearGradient>
+		<linearGradient id="grad30-20" v:fillPattern="30" v:foreground="#ffff7b" v:background="#ffff99" x1="0" y1="1" x2="0" y2="0">
+			<stop offset="0" style="stop-color:#ffff7b;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#ffff99;stop-opacity:1"/>
+		</linearGradient>
+		<linearGradient id="grad30-27" v:fillPattern="30" v:foreground="#f2c59f" v:background="#f6d5b9" x1="0" y1="1" x2="0" y2="0">
+			<stop offset="0" style="stop-color:#f2c59f;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#f6d5b9;stop-opacity:1"/>
+		</linearGradient>
+		<linearGradient id="grad30-34" v:fillPattern="30" v:foreground="#beb6d1" v:background="#cfc8dd" x1="0" y1="1" x2="0" y2="0">
+			<stop offset="0" style="stop-color:#beb6d1;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#cfc8dd;stop-opacity:1"/>
+		</linearGradient>
+		<linearGradient id="grad30-41" v:fillPattern="30" v:foreground="#e1b500" v:background="#ffcc00" x1="0" y1="1" x2="0" y2="0">
+			<stop offset="0" style="stop-color:#e1b500;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#ffcc00;stop-opacity:1"/>
+		</linearGradient>
+		<linearGradient id="grad30-48" v:fillPattern="30" v:foreground="#adc9e0" v:background="#c3d7e8" x1="0" y1="1" x2="0" y2="0">
+			<stop offset="0" style="stop-color:#adc9e0;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#c3d7e8;stop-opacity:1"/>
+		</linearGradient>
+		<linearGradient id="grad30-55" v:fillPattern="30" v:foreground="#f0f0f0" v:background="#ffffff" x1="0" y1="1" x2="0" y2="0">
+			<stop offset="0" style="stop-color:#f0f0f0;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#ffffff;stop-opacity:1"/>
+		</linearGradient>
+		<linearGradient id="grad30-76" v:fillPattern="30" v:foreground="#c9c9c9" v:background="#d8d8d8" x1="0" y1="1" x2="0" y2="0">
+			<stop offset="0" style="stop-color:#c9c9c9;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#d8d8d8;stop-opacity:1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+			<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Page-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Flowchart" v:index="0"/>
+		<v:layer v:name="Connector" v:index="1"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(14.1732,-538.583)">
+			<title>Rounded rectangle</title>
+			<desc>app</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="325.984" cy="574.016" width="651.97" height="42.5197"/>
+			<g id="shadow1-2" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M637.8 595.28 A14.1733 14.1733 -180 0 0 651.97 581.1 L651.97 566.93 A14.1733 14.1733 -180 0 0 637.8 552.76
+							 L14.17 552.76 A14.1733 14.1733 -180 0 0 -0 566.93 L0 581.1 A14.1733 14.1733 -180 0 0 14.17 595.28 L637.8
+							 595.28 Z" class="st2"/>
+			</g>
+			<path d="M637.8 595.28 A14.1733 14.1733 -180 0 0 651.97 581.1 L651.97 566.93 A14.1733 14.1733 -180 0 0 637.8 552.76 L14.17
+						 552.76 A14.1733 14.1733 -180 0 0 -0 566.93 L0 581.1 A14.1733 14.1733 -180 0 0 14.17 595.28 L637.8 595.28
+						 Z" class="st3"/>
+			<text x="307.63" y="581.22" class="st4" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>app</text>		</g>
+		<g id="shape2-8" v:mID="2" v:groupContext="shape" transform="translate(177.165,-460.63)">
+			<title>Rounded rectangle.2</title>
+			<desc>api</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(8,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="85.0394" cy="574.016" width="170.08" height="42.5197"/>
+			<g id="shadow2-9" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M155.91 595.28 A14.1733 14.1733 -180 0 0 170.08 581.1 L170.08 566.93 A14.1733 14.1733 -180 0 0 155.91 552.76
+							 L14.17 552.76 A14.1733 14.1733 -180 0 0 0 566.93 L0 581.1 A14.1733 14.1733 -180 0 0 14.17 595.28 L155.91
+							 595.28 Z" class="st2"/>
+			</g>
+			<path d="M155.91 595.28 A14.1733 14.1733 -180 0 0 170.08 581.1 L170.08 566.93 A14.1733 14.1733 -180 0 0 155.91 552.76
+						 L14.17 552.76 A14.1733 14.1733 -180 0 0 0 566.93 L0 581.1 A14.1733 14.1733 -180 0 0 14.17 595.28 L155.91
+						 595.28 Z" class="st5"/>
+			<text x="76.4" y="573.36" class="st6" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>api</text>		</g>
+		<g id="shape3-15" v:mID="3" v:groupContext="shape" transform="translate(177.165,-354.331)">
+			<title>Rounded rectangle.3</title>
+			<desc>vgx</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(12,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="56.6929" cy="559.843" width="113.39" height="70.8661"/>
+			<g id="shadow3-16" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M99.21 595.28 A14.1733 14.1733 -180 0 0 113.39 581.1 L113.39 538.58 A14.1733 14.1733 -180 0 0 99.21 524.41
+							 L14.17 524.41 A14.1733 14.1733 -180 0 0 0 538.58 L0 581.1 A14.1733 14.1733 -180 0 0 14.17 595.28 L99.21
+							 595.28 Z" class="st2"/>
+			</g>
+			<path d="M99.21 595.28 A14.1733 14.1733 -180 0 0 113.39 581.1 L113.39 538.58 A14.1733 14.1733 -180 0 0 99.21 524.41 L14.17
+						 524.41 A14.1733 14.1733 -180 0 0 0 538.58 L0 581.1 A14.1733 14.1733 -180 0 0 14.17 595.28 L99.21 595.28
+						 Z" class="st7"/>
+			<text x="47.2" y="549.01" class="st6" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>vgx</text>		</g>
+		<g id="shape4-22" v:mID="4" v:groupContext="shape" transform="translate(14.1732,-354.331)">
+			<title>Rounded rectangle.4</title>
+			<desc>cdd</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="520.866" width="113.39" height="148.819"/>
+			<g id="shadow4-23" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M99.21 595.28 A14.1733 14.1733 -180 0 0 113.39 581.1 L113.39 460.63 A14.1733 14.1733 -180 0 0 99.21 446.46
+							 L14.17 446.46 A14.1733 14.1733 -180 0 0 0 460.63 L0 581.1 A14.1733 14.1733 -180 0 0 14.17 595.28 L99.21
+							 595.28 Z" class="st2"/>
+			</g>
+			<path d="M99.21 595.28 A14.1733 14.1733 -180 0 0 113.39 581.1 L113.39 460.63 A14.1733 14.1733 -180 0 0 99.21 446.46 L14.17
+						 446.46 A14.1733 14.1733 -180 0 0 0 460.63 L0 581.1 A14.1733 14.1733 -180 0 0 14.17 595.28 L99.21 595.28
+						 Z" class="st8"/>
+			<text x="46.38" y="525.07" class="st6" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>cdd</text>		</g>
+		<g id="shape5-29" v:mID="5" v:groupContext="shape" transform="translate(14.1732,-276.378)">
+			<title>Rounded rectangle.5</title>
+			<desc>mcal</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="269.291" cy="574.016" width="538.59" height="42.5197"/>
+			<g id="shadow5-30" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M524.41 595.28 A14.1733 14.1733 -180 0 0 538.58 581.1 L538.58 566.93 A14.1733 14.1733 -180 0 0 524.41 552.76
+							 L14.17 552.76 A14.1733 14.1733 -180 0 0 0 566.93 L0 581.1 A14.1733 14.1733 -180 0 0 14.17 595.28 L524.41
+							 595.28 Z" class="st2"/>
+			</g>
+			<path d="M524.41 595.28 A14.1733 14.1733 -180 0 0 538.58 581.1 L538.58 566.93 A14.1733 14.1733 -180 0 0 524.41 552.76
+						 L14.17 552.76 A14.1733 14.1733 -180 0 0 0 566.93 L0 581.1 A14.1733 14.1733 -180 0 0 14.17 595.28 L524.41
+						 595.28 Z" class="st9"/>
+			<text x="255.78" y="578.22" class="st6" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>mcal</text>		</g>
+		<g id="shape7-36" v:mID="7" v:groupContext="shape" transform="translate(503.15,-460.63)">
+			<title>Rounded rectangle.7</title>
+			<desc>os</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="81.4961" cy="574.016" width="163" height="42.5197"/>
+			<g id="shadow7-37" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M148.82 595.28 A14.1733 14.1733 -180 0 0 162.99 581.1 L162.99 566.93 A14.1733 14.1733 -180 0 0 148.82 552.76
+							 L14.17 552.76 A14.1733 14.1733 -180 0 0 -0 566.93 L0 581.1 A14.1733 14.1733 -180 0 0 14.17 595.28 L148.82
+							 595.28 Z" class="st2"/>
+			</g>
+			<path d="M148.82 595.28 A14.1733 14.1733 -180 0 0 162.99 581.1 L162.99 566.93 A14.1733 14.1733 -180 0 0 148.82 552.76
+						 L14.17 552.76 A14.1733 14.1733 -180 0 0 -0 566.93 L0 581.1 A14.1733 14.1733 -180 0 0 14.17 595.28 L148.82
+						 595.28 Z" class="st10"/>
+			<text x="75.07" y="578.22" class="st6" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>os</text>		</g>
+		<g id="shape8-43" v:mID="8" v:groupContext="shape" transform="translate(588.189,-198.425)">
+			<title>Rounded rectangle.8</title>
+			<desc>FreeRTOS</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.9764" cy="534.862" width="77.96" height="120.827"/>
+			<g id="shadow8-44" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M63.78 595.28 A14.1733 14.1733 -180 0 0 77.95 581.1 L77.95 488.62 A14.1733 14.1733 -180 0 0 63.78 474.45
+							 L14.17 474.45 A14.1733 14.1733 -180 0 0 0 488.62 L0 581.1 A14.1733 14.1733 -180 0 0 14.17 595.28 L63.78
+							 595.28 Z" class="st2"/>
+			</g>
+			<path d="M63.78 595.28 A14.1733 14.1733 -180 0 0 77.95 581.1 L77.95 488.62 A14.1733 14.1733 -180 0 0 63.78 474.45 L14.17
+						 474.45 A14.1733 14.1733 -180 0 0 0 488.62 L0 581.1 A14.1733 14.1733 -180 0 0 14.17 595.28 L63.78 595.28
+						 Z" class="st11"/>
+			<text x="11.29" y="539.06" class="st6" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>FreeRTOS</text>		</g>
+		<g id="shape12-50" v:mID="12" v:groupContext="shape" transform="translate(1202.6,276.024) rotate(90) scale(-1,1)">
+			<title>45 degree single.12</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow12-51" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,-1.44,-1.44)" class="st1">
+				<path d="M0 575.43 L19.84 555.59 L19.84 568.69 L141.73 568.69 L141.73 582.18 L19.84 582.18 L19.84 595.28 L0 575.43
+							 Z" class="st2"/>
+			</g>
+			<path d="M0 575.43 L19.84 555.59 L19.84 568.69 L141.73 568.69 L141.73 582.18 L19.84 582.18 L19.84 595.28 L0 575.43 Z"
+					class="st12"/>
+		</g>
+		<g id="shape13-56" v:mID="13" v:groupContext="shape" transform="translate(837.638,92.126) rotate(90) scale(-1,1)">
+			<title>45 degree single.13</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow13-57" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,-1.44,-1.44)" class="st1">
+				<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+						class="st2"/>
+			</g>
+			<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+					class="st12"/>
+		</g>
+		<g id="shape14-61" v:mID="14" v:groupContext="shape" transform="translate(1160.08,92.126) rotate(90) scale(-1,1)">
+			<title>45 degree single.14</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow14-62" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,-1.44,-1.44)" class="st1">
+				<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+						class="st2"/>
+			</g>
+			<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+					class="st12"/>
+		</g>
+		<g id="shape11-66" v:mID="11" v:groupContext="shape" transform="translate(-256.535,276.378) rotate(-90)">
+			<title>45 degree double.11</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow11-67" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,-1.44,1.44)" class="st1">
+				<path d="M0 575.43 L19.84 555.59 L19.84 568.69 L121.89 568.69 L121.89 555.59 L141.73 575.43 L121.89 595.28 L121.89
+							 582.18 L19.84 582.18 L19.84 595.28 L0 575.43 Z" class="st2"/>
+			</g>
+			<path d="M0 575.43 L19.84 555.59 L19.84 568.69 L121.89 568.69 L121.89 555.59 L141.73 575.43 L121.89 595.28 L121.89 582.18
+						 L19.84 582.18 L19.84 595.28 L0 575.43 Z" class="st12"/>
+		</g>
+		<g id="shape16-71" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(177.165,-354.331)">
+			<title>Start/End</title>
+			<desc>LC Display / Screen</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Cost" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Process Number" v:prompt="" v:type="2" v:format="" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Owner" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Function" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Start Date" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="End Date" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Not Started;In Progress;Completed;Deferred;Waiting on Input" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="581.102" width="113.39" height="28.3465"/>
+			<g id="shadow16-72" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M14.17 595.28 L99.21 595.28 A14.1732 14.1732 -180 0 0 99.21 566.93 L14.17 566.93 A14.1732 14.1732 -180 1
+							 0 14.17 595.28 Z" class="st2"/>
+			</g>
+			<path d="M14.17 595.28 L99.21 595.28 A14.1732 14.1732 -180 0 0 99.21 566.93 L14.17 566.93 A14.1732 14.1732 -180 1 0 14.17
+						 595.28 Z" class="st13"/>
+			<text x="10.54" y="584.7" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>LC Display / Screen</text>		</g>
+		<g id="shape17-78" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(14.1732,-354.331)">
+			<title>Start/End.17</title>
+			<desc>Peripheral Devices</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Cost" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Process Number" v:prompt="" v:type="2" v:format="" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Owner" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Function" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Start Date" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="End Date" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Not Started;In Progress;Completed;Deferred;Waiting on Input" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="581.102" width="113.39" height="28.3465"/>
+			<g id="shadow17-79" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M14.17 595.28 L99.21 595.28 A14.1732 14.1732 -180 0 0 99.21 566.93 L14.17 566.93 A14.1732 14.1732 -180 1
+							 0 14.17 595.28 Z" class="st2"/>
+			</g>
+			<path d="M14.17 595.28 L99.21 595.28 A14.1732 14.1732 -180 0 0 99.21 566.93 L14.17 566.93 A14.1732 14.1732 -180 1 0 14.17
+						 595.28 Z" class="st13"/>
+			<text x="11.52" y="584.7" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Peripheral Devices</text>		</g>
+		<g id="shape18-84" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(396.85,-198.425)">
+			<title>Start/End.18</title>
+			<desc>CPU / Microcontroller</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Cost" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Process Number" v:prompt="" v:type="2" v:format="" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Owner" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Function" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Start Date" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="End Date" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Not Started;In Progress;Completed;Deferred;Waiting on Input" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="77.9528" cy="574.016" width="155.91" height="42.5197"/>
+			<g id="shadow18-85" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M21.26 595.28 L134.65 595.28 A21.2598 21.2598 -180 0 0 134.65 552.76 L21.26 552.76 A21.2598 21.2598 -180
+							 1 0 21.26 595.28 Z" class="st2"/>
+			</g>
+			<path d="M21.26 595.28 L134.65 595.28 A21.2598 21.2598 -180 0 0 134.65 552.76 L21.26 552.76 A21.2598 21.2598 -180 1 0
+						 21.26 595.28 Z" class="st13"/>
+			<text x="15.62" y="578.22" class="st6" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>CPU / Microcontroller</text>		</g>
+		<g id="shape19-90" v:mID="19" v:groupContext="shape" v:layerMember="0" transform="translate(14.1732,-198.425)">
+			<title>Start/End.19</title>
+			<desc>Memory</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Cost" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Process Number" v:prompt="" v:type="2" v:format="" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Owner" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Function" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Start Date" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="End Date" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Not Started;In Progress;Completed;Deferred;Waiting on Input" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="574.016" width="113.39" height="42.5197"/>
+			<g id="shadow19-91" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M21.26 595.28 L92.13 595.28 A21.2598 21.2598 -180 0 0 92.13 552.76 L21.26 552.76 A21.2598 21.2598 -180 1
+							 0 21.26 595.28 Z" class="st2"/>
+			</g>
+			<path d="M21.26 595.28 L92.13 595.28 A21.2598 21.2598 -180 0 0 92.13 552.76 L21.26 552.76 A21.2598 21.2598 -180 1 0 21.26
+						 595.28 Z" class="st13"/>
+			<text x="32.33" y="578.22" class="st6" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Memory</text>		</g>
+		<g id="shape20-96" v:mID="20" v:groupContext="shape" transform="translate(646.299,354.331) rotate(90) scale(-1,1)">
+			<title>45 degree single</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow20-97" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,-1.44,-1.44)" class="st1">
+				<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+						class="st2"/>
+			</g>
+			<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+					class="st12"/>
+		</g>
+		<g id="shape22-101" v:mID="22" v:groupContext="shape" transform="translate(646.299,276.378) rotate(90) scale(-1,1)">
+			<title>45 degree single.22</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow22-102" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,-1.44,-1.44)" class="st1">
+				<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+						class="st2"/>
+			</g>
+			<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+					class="st12"/>
+		</g>
+		<g id="shape23-106" v:mID="23" v:groupContext="shape" transform="translate(1000.63,276.378) rotate(90) scale(-1,1)">
+			<title>45 degree single.23</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow23-107" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,-1.44,-1.44)" class="st1">
+				<path d="M0 575.43 L19.84 555.59 L19.84 568.69 L141.73 568.69 L141.73 582.18 L19.84 582.18 L19.84 595.28 L0 575.43
+							 Z" class="st2"/>
+			</g>
+			<path d="M0 575.43 L19.84 555.59 L19.84 568.69 L141.73 568.69 L141.73 582.18 L19.84 582.18 L19.84 595.28 L0 575.43 Z"
+					class="st12"/>
+		</g>
+		<g id="shape9-111" v:mID="9" v:groupContext="shape" transform="translate(809.291,170.079) rotate(90) scale(-1,1)">
+			<title>45 degree single.9</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow9-112" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,-1.44,-1.44)" class="st1">
+				<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+						class="st2"/>
+			</g>
+			<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+					class="st12"/>
+		</g>
+		<g id="shape24-116" v:mID="24" v:groupContext="shape" transform="translate(809.291,276.378) rotate(90) scale(-1,1)">
+			<title>45 degree single.24</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow24-117" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,-1.44,-1.44)" class="st1">
+				<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+						class="st2"/>
+			</g>
+			<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+					class="st12"/>
+		</g>
+		<g id="shape21-121" v:mID="21" v:groupContext="shape" transform="translate(1050.24,354.331) rotate(90) scale(-1,1)">
+			<title>45 degree single.21</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow21-122" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,-1.44,-1.44)" class="st1">
+				<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+						class="st2"/>
+			</g>
+			<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+					class="st12"/>
+		</g>
+		<g id="shape25-126" v:mID="25" v:groupContext="shape" transform="translate(552.756,951.024) scale(1,-1)">
+			<title>45 degree single.25</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow25-127" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,-1.44)" class="st1">
+				<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+						class="st2"/>
+			</g>
+			<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+					class="st12"/>
+		</g>
+		<g id="shape10-131" v:mID="10" v:groupContext="shape" transform="translate(646.299,92.126) rotate(90) scale(-1,1)">
+			<title>45 degree single.10</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow10-132" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,-1.44,-1.44)" class="st1">
+				<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+						class="st2"/>
+			</g>
+			<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+					class="st12"/>
+		</g>
+		<g id="shape27-136" v:mID="27" v:groupContext="shape" transform="translate(127.559,-449.291)">
+			<title>45 degree double</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow27-137" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M0 575.43 L19.84 555.59 L19.84 568.69 L29.76 568.69 L29.76 555.59 L49.61 575.43 L29.76 595.28 L29.76 582.18
+							 L19.84 582.18 L19.84 595.28 L0 575.43 Z" class="st2"/>
+			</g>
+			<path d="M0 575.43 L19.84 555.59 L19.84 568.69 L29.76 568.69 L29.76 555.59 L49.61 575.43 L29.76 595.28 L29.76 582.18
+						 L19.84 582.18 L19.84 595.28 L0 575.43 Z" class="st12"/>
+		</g>
+		<g id="shape26-141" v:mID="26" v:groupContext="shape" transform="translate(177.165,-460.63)">
+			<title>Rounded rectangle.26</title>
+			<desc>cust</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="586.772" width="170.08" height="17.0079"/>
+			<g id="shadow26-142" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M161.57 595.28 A8.504 8.504 -180 0 0 170.08 586.77 A8.504 8.504 -180 0 0 161.57 578.27 L8.5 578.27 A8.504
+							 8.504 -180 0 0 -0 586.77 A8.504 8.504 -180 0 0 8.5 595.28 L161.57 595.28 Z" class="st2"/>
+			</g>
+			<path d="M161.57 595.28 A8.504 8.504 -180 0 0 170.08 586.77 A8.504 8.504 -180 0 0 161.57 578.27 L8.5 578.27 A8.504 8.504
+						 -180 0 0 -0 586.77 A8.504 8.504 -180 0 0 8.5 595.28 L161.57 595.28 Z" class="st3"/>
+			<text x="74.99" y="590.37" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>cust</text>		</g>
+		<g id="shape29-147" v:mID="29" v:groupContext="shape" transform="translate(382.677,-460.63)">
+			<title>Rounded rectangle.29</title>
+			<desc>sys</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="42.5197" cy="574.016" width="85.04" height="42.5197"/>
+			<g id="shadow29-148" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M70.87 595.28 A14.1733 14.1733 -180 0 0 85.04 581.1 L85.04 566.93 A14.1733 14.1733 -180 0 0 70.87 552.76
+							 L14.17 552.76 A14.1733 14.1733 -180 0 0 0 566.93 L0 581.1 A14.1733 14.1733 -180 0 0 14.17 595.28 L70.87
+							 595.28 Z" class="st2"/>
+			</g>
+			<path d="M70.87 595.28 A14.1733 14.1733 -180 0 0 85.04 581.1 L85.04 566.93 A14.1733 14.1733 -180 0 0 70.87 552.76 L14.17
+						 552.76 A14.1733 14.1733 -180 0 0 0 566.93 L0 581.1 A14.1733 14.1733 -180 0 0 14.17 595.28 L70.87 595.28
+						 Z" class="st10"/>
+			<text x="33.88" y="578.22" class="st6" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>sys</text>		</g>
+		<g id="shape15-153" v:mID="15" v:groupContext="shape" transform="translate(1106.93,276.378) rotate(90) scale(-1,1)">
+			<title>45 degree single.15</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow15-154" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,-1.44,-1.44)" class="st1">
+				<path d="M0 575.43 L19.84 555.59 L19.84 568.69 L141.73 568.69 L141.73 582.18 L19.84 582.18 L19.84 595.28 L0 575.43
+							 Z" class="st2"/>
+			</g>
+			<path d="M0 575.43 L19.84 555.59 L19.84 568.69 L141.73 568.69 L141.73 582.18 L19.84 582.18 L19.84 595.28 L0 575.43 Z"
+					class="st12"/>
+		</g>
+		<g id="shape30-158" v:mID="30" v:groupContext="shape" transform="translate(1000.63,92.126) rotate(90) scale(-1,1)">
+			<title>45 degree single.30</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow30-159" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,-1.44,-1.44)" class="st1">
+				<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+						class="st2"/>
+			</g>
+			<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+					class="st12"/>
+		</g>
+		<g id="shape31-163" v:mID="31" v:groupContext="shape" v:layerMember="0" transform="translate(141.732,-198.425)">
+			<title>Start/End.31</title>
+			<desc>Ports</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Cost" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Process Number" v:prompt="" v:type="2" v:format="" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Owner" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Function" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Start Date" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="End Date" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Not Started;In Progress;Completed;Deferred;Waiting on Input" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="574.016" width="113.39" height="42.5197"/>
+			<g id="shadow31-164" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M21.26 595.28 L92.13 595.28 A21.2598 21.2598 -180 0 0 92.13 552.76 L21.26 552.76 A21.2598 21.2598 -180 1
+							 0 21.26 595.28 Z" class="st2"/>
+			</g>
+			<path d="M21.26 595.28 L92.13 595.28 A21.2598 21.2598 -180 0 0 92.13 552.76 L21.26 552.76 A21.2598 21.2598 -180 1 0 21.26
+						 595.28 Z" class="st13"/>
+			<text x="41.86" y="578.22" class="st6" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Ports</text>		</g>
+		<g id="shape32-169" v:mID="32" v:groupContext="shape" transform="translate(773.858,354.331) rotate(90) scale(-1,1)">
+			<title>45 degree single.32</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow32-170" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,-1.44,-1.44)" class="st1">
+				<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+						class="st2"/>
+			</g>
+			<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+					class="st12"/>
+		</g>
+		<g id="shape28-174" v:mID="28" v:groupContext="shape" v:layerMember="0" transform="translate(269.291,-198.425)">
+			<title>Start/End.28</title>
+			<desc>Periheral Devices</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Cost" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Process Number" v:prompt="" v:type="2" v:format="" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Owner" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Function" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Start Date" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="End Date" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Not Started;In Progress;Completed;Deferred;Waiting on Input" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1033" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="574.016" width="113.39" height="42.5197"/>
+			<g id="shadow28-175" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
+				<path d="M21.26 595.28 L92.13 595.28 A21.2598 21.2598 -180 0 0 92.13 552.76 L21.26 552.76 A21.2598 21.2598 -180 1
+							 0 21.26 595.28 Z" class="st2"/>
+			</g>
+			<path d="M21.26 595.28 L92.13 595.28 A21.2598 21.2598 -180 0 0 92.13 552.76 L21.26 552.76 A21.2598 21.2598 -180 1 0 21.26
+						 595.28 Z" class="st13"/>
+			<text x="7.67" y="578.22" class="st6" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Periheral Devices</text>		</g>
+		<g id="shape35-180" v:mID="35" v:groupContext="shape" transform="translate(901.417,354.331) rotate(90) scale(-1,1)">
+			<title>45 degree single.35</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow35-181" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,-1.44,-1.44)" class="st1">
+				<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+						class="st2"/>
+			</g>
+			<path d="M0 575.43 L15.94 555.59 L15.94 568.69 L35.43 568.69 L35.43 582.18 L15.94 582.18 L15.94 595.28 L0 575.43 Z"
+					class="st12"/>
+		</g>
+	</g>
+</svg>
